@@ -1,11 +1,2 @@
 #NOTAS
-Este es mi primer programa en node
-
-```
-Opciones:
-      --help     Muestra ayuda                                        [booleano]
-      --version  Muestra número de versión                            [booleano]
-  -b, --base     Es la base de la tabla de multiplicar      [número] [requerido]
-  -l, --listar   Muestra al tabla de multiplicar     [booleano] [defecto: false]
-  -h, --hasta    Hasta que numero se muestra la tabla     [número] [defecto: 10]
-```
+Este es un pequeño programa que muestra la tabla de multiplicación del número X , hasta la cantidad del numero X, en NodeJS, y guarda las multiplicaciones en un archivo .txt. Es una pequeña aplicación de consola, nada del otro mundo.
